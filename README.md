@@ -3,11 +3,11 @@ Hello there! My name is Sami Samara. I am from Chicago, and I mainly enjoy softw
 
 - 🌱 I’m currently learning **React**
 
-- 📄 Know about my experiences and how to reach [https/www.linkedin.com/in/sami-samara](https/www.linkedin.com/in/sami-samara)
+- 📄 Know about my experiences and how to reach [https://www.linkedin.com/in/sami-samara/](https://www.linkedin.com/in/sami-samara/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https/www.linkedin.com/in/sami-samara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samisamara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sami-samara/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samisamara" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
