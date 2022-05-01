@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sami Samara</h1>
 <h3 align="center">Currently searching for internships or jobs</h3>
-Hello there! My name is Sami Samara. I am from Chicago, and I mainly enjoy software development. I love to learn new languages, and I just love creating projects from the ground up and seeing the end product. My goals at the moment are to become a software developer or a software engineer, and I hope to create a video game from the ground up. Java is my specialty. 
+Hello there! My name is Sami Samara. I am from Chicago and I mainly enjoy software development. I love to learn new languages and I just love creating projects from the ground up and seeing the end product. My goals at the moment are to become a software developer or a software engineer, and I hope to create a video game from the ground up. Java and JavaScript is my specialty. 
 
 - 🌱 I’m currently learning **React**
 
