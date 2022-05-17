@@ -20,7 +20,7 @@ https://github.com/samisamara/samisamara/blob/main/Samara%2C%20Sami%20Resume.pdf
 ---
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samisamara&show_icons=true&locale=en&layout=compact" alt="samisamara" /></p> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisamara&layout=compact)](https://github.com/samisamara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisamara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samisamara)](https://github.com/anuraghazra/github-readme-stats)
 
