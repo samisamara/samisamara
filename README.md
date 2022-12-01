@@ -5,7 +5,7 @@ Hello there! My name is Sami Samara. I am from Chicago and I mainly enjoy softwa
 <h2>Resume:</h2>
 https://github.com/samisamara/samisamara/blob/main/Samara%2C%20Sami%20Resume.pdf
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 📄 Know about my experiences and how to reach [https://www.linkedin.com/in/sami-samara/](https://www.linkedin.com/in/sami-samara/)
 
