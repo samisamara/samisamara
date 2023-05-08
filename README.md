@@ -3,7 +3,7 @@
 Hello there! My name is Sami Samara. I am from Chicago and I mainly enjoy software development. I love to learn new languages and I just love creating projects from the ground up and seeing the end product. My goals at the moment are to become a software developer or a software engineer, and I hope to create a video game from the ground up. Java and JavaScript is my specialty. 
 
 <h2>Resume:</h2>
-https://github.com/samisamara/samisamara/blob/main/Samara%2C%20Sami%20Resume.pdf
+https://github.com/samisamara/samisamara/blob/main/Sami%20Samara%20Resume.pdf
 
 - 🌱 I’m currently learning **React Native**
 
