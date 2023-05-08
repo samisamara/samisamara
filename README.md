@@ -21,7 +21,7 @@ https://github.com/samisamara/samisamara/blob/main/Sami%20Samara%20Resume.pdf
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisamara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samisamara)](https://github.com/samisamara/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samisamara)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 samisamara/samisamara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
