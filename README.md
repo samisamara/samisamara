@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sami Samara</h1>
 <h3 align="center">Currently searching for full-time jobs in Computer Science</h3>
-Hello there! My name is Sami Samara. I am from Chicago and I mainly enjoy software development. I love to learn new languages and I just love creating projects from the ground up and seeing the end product. My goals at the moment are to become a software developer or a software engineer, and I hope to create a video game from the ground up. Java and JavaScript is my specialty. 
+Hello there! My name is Sami Samara. I am from Chicago and I mainly enjoy software development. I love to learn new languages and I just love creating projects from the ground up and seeing the end product. If you'd like to connect, please reach out via my email: samisamara548@gmail.com. 
 
 <h2>Resume:</h2>
 https://github.com/samisamara/samisamara/blob/main/Sami%20Samara%20Resume.pdf
@@ -20,8 +20,6 @@ https://github.com/samisamara/samisamara/blob/main/Sami%20Samara%20Resume.pdf
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samisamara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samisamara)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 samisamara/samisamara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
