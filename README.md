@@ -3,7 +3,7 @@
 Hello there! My name is Sami Samara. I am from Chicago and I mainly enjoy software development. I love to learn new languages and I just love creating projects from the ground up and seeing the end product. If you'd like to connect, please reach out via my email: samisamara548@gmail.com. 
 
 <h2>Resume:</h2>
-https://github.com/samisamara/samisamara/blob/main/Sami_Samara_Resume.pdf
+https://github.com/samisamara/samisamara/blob/main/Sami_Samara_Resume.pdf 
 
 - 🌱 I’m currently learning **React Native**
 
