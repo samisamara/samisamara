@@ -5,7 +5,7 @@ Hello there! My name is Sami Samara. I am from Chicago and I mainly enjoy softwa
 <h2>Resume:</h2>
 https://github.com/samisamara/samisamara/blob/main/Sami_Samara_Resume.pdf 
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Swift and SwiftUI**
 
 - 📄 Know about my experiences and how to reach [https://www.linkedin.com/in/sami-samara/](https://www.linkedin.com/in/sami-samara/)
 
