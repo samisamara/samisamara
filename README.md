@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sami Samara</h1>
 <h3 align="center">Currently searching for full-time jobs in Computer Science</h3>
-Hello there! My name is Sami Samara. I am from Chicago and I mainly enjoy software development. I love to learn new languages and I just love creating projects from the ground up and seeing the end product. If you'd like to connect, please reach out via my email: samisamara548@gmail.com. 
+Hello there! My name is Sami Samara. I am from Chicago and I mainly enjoy software development. I love to learn new languages and I just love creating projects from the ground up and seeing the end product. I also have a huge passion for game development, and have been actively using the physics engine: Unity! If you'd like to connect, please reach out via my email: samisamara548@gmail.com. 
 
 <h2>Resume:</h2>
 https://github.com/samisamara/samisamara/blob/main/Sami_Samara_Resume.pdf 
